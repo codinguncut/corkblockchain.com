@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Blockchain Introduction at Teagasc"
-date:   2018-03-21 12:51:52 +0200
 categories: teagasc
 ---
 Johannes gave a quick Blockchain Introduction at [Teagasc](https://www.teagasc.ie/), the Irish Agriculture and Food Development Authority.

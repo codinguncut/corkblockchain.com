@@ -1,15 +1,37 @@
 ---
 layout: post
-title:  "Resources to learn more about Blockchain"
-date:   2018-04-01 12:51:52 +0200
+title:  "Resources for Learning about Blockchain"
 categories: igov
 ---
-Very good presentations at the [iGov event](https://www.lero.ie/news-and-events/events/igov-delivering-public-services-using-blockchain) in Dublin with outstanding presentations by Roman Beck (University Copenhagen) on practical industry blockchain pilots & projects, and Pearse Ryan (Arthur Cox) on the legal status around "Smart Legal Contracts".
 
-It was a joy to participate in the panel discussion, with many excellent questions and a solid discussion of the use cases for blockchain, its benefits and threats, social impact, etc.
+Below I have collected a couple of resources I've found helpful in going deeper on Blockchain and Distributed Ledger Technologies.
 
-Indeed very interesting to see how much is already done in the Public Sector around blockchain by governments like Estonia, Denmark, Dubai, etc.:
+I particularly found the courses "Bitcoin and Cryptocurrency Technologies" and "Introduction to Digital Currencies" helpful. The former put more emphasis on the technical background, while the latter focussed on monetary policy, banking and digital currencies.
 
-![Public Blockchain 2017]({{ "/assets/public_blockchain.png" | absolute_url }})
+### University of Nicosia
+* Free MOOC [DFIN-511 Introduction to Digital Currencies](https://digitalcurrency.unic.ac.cy/free-introductory-mooc/)
+	* Several lectures by Andreas Antonopoulos
+	* First module of their MSc Digital Currencies
 
-[Deloitte - Will Blockchain transform the Public Sector](https://www2.deloitte.com/insights/us/en/industry/public-sector/understanding-basics-of-blockchain-in-government.html)
+### Coursera (“audit” for free)
+* [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency/home/welcome)
+	* Fantastic course that goes reasonably deep into UTXOs, consensus in the face of malicious nodes, etc. including programming exercises
+* [IBM Blockchain Foundation for Developers](https://www.coursera.org/learn/ibm-blockchain-essentials-for-developers/home/welcome)
+    * relatively basic course by IBM
+
+### EdX (“audit” for free)
+* [Blockchain for Business - An Introduction to Hyperledger Technologies](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS171x+3T2017/course/)
+	* Good high-level overview about Blockchain in general, and the Hyperledger projects (Fabric, Sawtooth, Iroha, Burrow, Composer, etc.) in particular
+
+### B9Lab Academy
+* [Introduction to Hyperledger Fabric for Developers (free)](https://academy.b9lab.com/courses/course-v1:B9lab+HLF-101+2017-11/about)
+* [Introduction to Blockchain for Technical Executives (free)](https://academy.b9lab.com/courses/course-v1:B9lab+CTO-FREE-1+2017-12/about)
+* [Introduction to Ethereum for Developers (free)](https://academy.b9lab.com/courses/B9lab/X16-0/2016/about)
+
+### Udemy (frequently offers available for < 20EUR)
+* many courses about Ethereum, Dapps, etc. available of varying quality
+
+### Books
+* [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook), [2](https://en.bitcoin.it/wiki/Mastering_Bitcoin), but English PDF not officially available for free
+* [The Internet of Money](https://github.com/erangadbw/IoMv1)
+* [Mastering Ethereum (WIP)](https://github.com/ethereumbook/ethereumbook)
