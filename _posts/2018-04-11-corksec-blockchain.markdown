@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "CorkSec 58 - Blockchain & Distributed Ledgers"
+categories: events
+---
+Very Good session at [CorkSec #58](https://www.meetup.com/CorkSec/events/247900716/) last night.
+
+The turnout was about 40 people at "An Spailpin Fanach" in Cork city center, and we had a good time having a few pints, and talking about the broader topic of blockchain, distributed ledgers and some of the challenges and opportunities around this, with a (small) emphasis on cryptography and security.
+
+Thank you to Robert McArdle as usual organizing a great event, and to the participants for fantastic engagement and some very challenging questions.
+
+[Slides](https://speakerdeck.com/ilen/use-cases-for-blockchain-and-distributed-ledgers) from the talk below:
+
+<script async class="speakerdeck-embed" data-id="4ebb519b1810402b928a1d8fb4b2b478" data-ratio="1.54449472096531" src="//speakerdeck.com/assets/embed.js"></script>

@@ -13,13 +13,15 @@ I particularly found the courses "Bitcoin and Cryptocurrency Technologies" and "
 	* Several lectures by Andreas Antonopoulos
 	* First module of their MSc Digital Currencies
 
-### Coursera (“audit” for free)
+### Coursera
+* can “audit” for free
 * [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency/home/welcome)
 	* Fantastic course that goes reasonably deep into UTXOs, consensus in the face of malicious nodes, etc. including programming exercises
 * [IBM Blockchain Foundation for Developers](https://www.coursera.org/learn/ibm-blockchain-essentials-for-developers/home/welcome)
     * relatively basic course by IBM
 
-### EdX (“audit” for free)
+### EdX
+* can “audit” for free
 * [Blockchain for Business - An Introduction to Hyperledger Technologies](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS171x+3T2017/course/)
 	* Good high-level overview about Blockchain in general, and the Hyperledger projects (Fabric, Sawtooth, Iroha, Burrow, Composer, etc.) in particular
 
@@ -30,6 +32,9 @@ I particularly found the courses "Bitcoin and Cryptocurrency Technologies" and "
 
 ### Udemy (frequently offers available for < 20EUR)
 * many courses about Ethereum, Dapps, etc. available of varying quality
+
+### Khan Academy
+* [Bitcoin Overview](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-overview)
 
 ### Books
 * [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook), [2](https://en.bitcoin.it/wiki/Mastering_Bitcoin), but English PDF not officially available for free

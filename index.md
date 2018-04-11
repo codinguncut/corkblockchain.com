@@ -19,7 +19,7 @@ layout: default
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
-	<div class="page__hero--overlay" style="background-image: url(/assets/block-chain.png)">
+	<div class="page__hero--overlay" style="background-image: url(/assets/blockchain_plain.jpg)">
 	</div>
 
   {%- if site.posts.size > 0 -%}
