@@ -9,7 +9,9 @@ Johannes presented on the basics of Blockchain as well as some details on Permis
 
 Many thanks to all for coming and for actively participating, my apologies for the mis-communication about the venue change, and we are looking forward to an ever bigger crowd at next months meetup.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9XgJ1JIYk0U" frameborder="0" allow="encrypted-media" allowfullscreen></iframe style="margin: auto;">
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9XgJ1JIYk0U" frameborder="0" allow="encrypted-media" allowfullscreen style="margin: auto;"></iframe>
+</center>
 
 [Slides](https://speakerdeck.com/fluquid/cork-blockchain-number-1-introduction-to-blockchain-and-permissioned-blockchains) from the talk below:
 

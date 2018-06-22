@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Cork Blockchain
-email: johannes@claru.io
+email: johannes@fluquid.com
 description: >- # this means to ignore newlines until "baseurl:"
     This group is all about using Blockchain and Distributed Ledgers for real projects.
 
@@ -29,6 +29,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
